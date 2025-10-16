@@ -123,7 +123,11 @@ It demonstrates my ability to combine SQL querying, Excel preprocessing, and Pow
 Below are sample visuals from the Power BI dashboard
 
 Dashboard Overview - https://github.com/nadeem786-stack/ola---identified-the-reason-and-trend-of-cancellation-rides/blob/main/ola-overall.png
+
 Vehical type - https://github.com/nadeem786-stack/ola---identified-the-reason-and-trend-of-cancellation-rides/blob/main/ola%20-%20vehical%20type.png
+
 revenue - https://github.com/nadeem786-stack/ola---identified-the-reason-and-trend-of-cancellation-rides/blob/main/ola%20-%20revenue.png
+
 Cancellations - https://github.com/nadeem786-stack/ola---identified-the-reason-and-trend-of-cancellation-rides/blob/main/ola-cancellation.png
+
 Ratings - https://github.com/nadeem786-stack/ola---identified-the-reason-and-trend-of-cancellation-rides/blob/main/ola-ratings.png
